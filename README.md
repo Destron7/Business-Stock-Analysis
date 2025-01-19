@@ -41,7 +41,7 @@ pip install streamlit pandas yfinance plotly matplotlib holidays numpy keras sci
 3. Run the app using Streamlit:
 
    ```bash
-   streamlit run app.py
+   streamlit run app1.py
    ```
 
 4. Open the app in your browser and explore the features.
